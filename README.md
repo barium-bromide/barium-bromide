@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Just a casual coder
+[I am on codeberg as well](https://codeberg.org/drd3)
 <!--
 **barium-bromide/barium-bromide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
