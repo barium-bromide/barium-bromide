@@ -1,7 +1,7 @@
 # Hi there 👋
 This is my github account where I contribute to [my friends organisation](https://github.com/chincai-org) or other people repos.
 
-[All my public hobby projects are on codeberg](https://codeberg.org/drd3)
+[All my public hobby projects here](https://codeberg.org/drd3)
 <!--
 **barium-bromide/barium-bromide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
